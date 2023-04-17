@@ -1,2 +1,6 @@
-fixwd the bug we found in project cloubbots. it is now ready to be mergered with master branch
+<<<<<<< HEAD
+
 this is the fix.
+=======
+this is the fix.
+>>>>>>> bug1
